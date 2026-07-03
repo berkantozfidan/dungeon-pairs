@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0999ad0f4e508554ca916035f5e92e81, type: 3}
+  m_Name: Freeze Enemy
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonPairs.Cards.CardDefinition
+  optionalForDeckCompletion: 1
+  id: freeze_enemy
+  displayName: Freeze Enemy
+  triggerType: 0
+  effect: {fileID: 11400000, guid: cb771f4dea1152741b094db195e2112d, type: 2}
+  matchKey: freeze_enemy
+  comboGroupId: 
+  comboOrder: 0
+  comboLength: 0
+  comboCompleteEffect: {fileID: 0}
+  icon: {fileID: 0}
+  revealedColor: {r: 1, g: 1, b: 1, a: 1}
+  revealedPrefab: {fileID: 9066943567415106463, guid: 5e2cdae4cd954a74583e0dac31febc55, type: 3}
+  revealedBackingMaterial: {fileID: 2100000, guid: e6fcc23b2465f5c4a99e4ad90dd64b67, type: 2}

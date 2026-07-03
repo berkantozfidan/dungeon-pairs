@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0999ad0f4e508554ca916035f5e92e81, type: 3}
+  m_Name: Attack Card 3
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonPairs.Cards.CardDefinition
+  id: attack_card_3
+  displayName: attack_card_3
+  triggerType: 0
+  effect: {fileID: 11400000, guid: 2cd2a101082349a4e948314e8471c07d, type: 2}
+  matchKey: attack_card_3
+  comboGroupId: 
+  comboOrder: 0
+  comboLength: 0
+  comboCompleteEffect: {fileID: 0}
+  icon: {fileID: 0}
+  revealedColor: {r: 1, g: 1, b: 1, a: 1}
+  revealedPrefab: {fileID: 3302143077987867115, guid: c565cad2736a373489f34505d4d2f5fe, type: 3}
+  revealedBackingMaterial: {fileID: 2100000, guid: b9676c7edad8da148abca9c4314c8612, type: 2}

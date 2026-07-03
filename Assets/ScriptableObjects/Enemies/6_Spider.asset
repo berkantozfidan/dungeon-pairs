@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c102122489cc5e40aa52bf38109e5c5, type: 3}
+  m_Name: 6_Spider
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonPairs.Enemies.EnemyDefinition
+  visualPrefab: {fileID: 2962161620157007643, guid: 490b57168b12e5145932000bfaf3f14a, type: 3}
+  displayName: Spider
+  maxHealth: 100
+  basicAttack: {fileID: 11400000, guid: a2a04f7d014189849951737024f69caa, type: 2}
+  basicAttackCooldown: 5
+  heavyAttack: {fileID: 0}
+  heavyAttackCooldown: 0

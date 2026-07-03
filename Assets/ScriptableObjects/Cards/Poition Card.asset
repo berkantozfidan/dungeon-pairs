@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0999ad0f4e508554ca916035f5e92e81, type: 3}
+  m_Name: Poition Card
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonPairs.Cards.CardDefinition
+  optionalForDeckCompletion: 1
+  id: potion_basic
+  displayName: Potion
+  triggerType: 0
+  effect: {fileID: 11400000, guid: 8b792bddb5bcdd544b4ba51d90f923cc, type: 2}
+  matchKey: potion_basic
+  comboGroupId: 
+  comboOrder: 0
+  comboLength: 0
+  comboCompleteEffect: {fileID: 0}
+  icon: {fileID: 0}
+  revealedColor: {r: 0, g: 1, b: 0.07986301, a: 1}
+  revealedPrefab: {fileID: 6550361291866081890, guid: f6d6feb0d2fd632488f902240a60ae5f, type: 3}
+  revealedBackingMaterial: {fileID: 2100000, guid: b9676c7edad8da148abca9c4314c8612, type: 2}

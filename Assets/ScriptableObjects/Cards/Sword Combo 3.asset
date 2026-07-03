@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0999ad0f4e508554ca916035f5e92e81, type: 3}
+  m_Name: Sword Combo 3
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonPairs.Cards.CardDefinition
+  id: sword_combo_3
+  displayName: Sword 3
+  triggerType: 2
+  effect: {fileID: 0}
+  matchKey: 
+  comboGroupId: sword_combo
+  comboOrder: 3
+  comboLength: 3
+  comboCompleteEffect: {fileID: 11400000, guid: 88ec3df446494b445bdba6ac34d79f24, type: 2}
+  icon: {fileID: 0}
+  revealedColor: {r: 0.23584908, g: 0.02336241, b: 0.02336241, a: 1}
+  revealedPrefab: {fileID: 5085415414177347934, guid: b24357c814f9af44f94f9830216f4db8, type: 3}
+  revealedBackingMaterial: {fileID: 2100000, guid: 8014fc9e0d06a6d4fae51c35218803a3, type: 2}

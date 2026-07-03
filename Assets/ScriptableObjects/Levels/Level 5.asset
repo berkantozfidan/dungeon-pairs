@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aee0a4394582b14d8caabf8c16023eb, type: 3}
+  m_Name: Level 5
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonPairs.Levels.LevelDefinition
+  displayName: Level  3
+  enemy: {fileID: 11400000, guid: 1025895ee0e453f45974fe2d50808faa, type: 2}
+  decks:
+  - {fileID: 11400000, guid: 4e987ce93347d614091facb9cbd4c5c9, type: 2}
+  - {fileID: 11400000, guid: 2a4fd59ce7e2f9a4287fe77b75b4eba7, type: 2}

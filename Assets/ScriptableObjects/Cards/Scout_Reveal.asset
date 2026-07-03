@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0999ad0f4e508554ca916035f5e92e81, type: 3}
+  m_Name: Scout_Reveal
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonPairs.Cards.CardDefinition
+  optionalForDeckCompletion: 1
+  id: reveal
+  displayName: reveal
+  triggerType: 1
+  effect: {fileID: 11400000, guid: 8533ed569f6977549a3a5b926f95cbfc, type: 2}
+  matchKey: reveal
+  comboGroupId: 
+  comboOrder: 0
+  comboLength: 0
+  comboCompleteEffect: {fileID: 0}
+  icon: {fileID: 0}
+  revealedColor: {r: 1, g: 1, b: 1, a: 1}
+  revealedPrefab: {fileID: 8330715476335757199, guid: f2509d7c49a92e145bd21cf8fe7d00ad, type: 3}
+  revealedBackingMaterial: {fileID: 2100000, guid: e6fcc23b2465f5c4a99e4ad90dd64b67, type: 2}

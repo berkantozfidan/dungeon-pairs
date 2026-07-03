@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0999ad0f4e508554ca916035f5e92e81, type: 3}
+  m_Name: Shield Card
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonPairs.Cards.CardDefinition
+  optionalForDeckCompletion: 1
+  id: shield_basic
+  displayName: Shield
+  triggerType: 0
+  effect: {fileID: 11400000, guid: 1619e1dc1a3c0b2469d86f3a81eea27d, type: 2}
+  matchKey: shield_basic
+  comboGroupId: 
+  comboOrder: 0
+  comboLength: 0
+  comboCompleteEffect: {fileID: 0}
+  icon: {fileID: 0}
+  revealedColor: {r: 0, g: 0.020439029, b: 1, a: 1}
+  revealedPrefab: {fileID: 7341077543960108158, guid: 554531a513518fa409676c096283ddcf, type: 3}
+  revealedBackingMaterial: {fileID: 2100000, guid: b9676c7edad8da148abca9c4314c8612, type: 2}

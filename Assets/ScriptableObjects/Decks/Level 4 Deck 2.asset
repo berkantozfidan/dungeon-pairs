@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 655ec6ddec91a8f4fb0282120fa9b68b, type: 3}
+  m_Name: Level 4 Deck 2
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonPairs.Decks.DeckDefinition
+  cards:
+  - {fileID: 11400000, guid: dcf11bf6ae5de67448d50de6b02788be, type: 2}
+  - {fileID: 11400000, guid: dcf11bf6ae5de67448d50de6b02788be, type: 2}
+  - {fileID: 11400000, guid: 61fa5491dc8763d49841deaece7a0939, type: 2}
+  - {fileID: 11400000, guid: 61fa5491dc8763d49841deaece7a0939, type: 2}
+  - {fileID: 11400000, guid: fe307bccbec22f84c844c193853b6a2a, type: 2}
+  - {fileID: 11400000, guid: fe307bccbec22f84c844c193853b6a2a, type: 2}
+  - {fileID: 11400000, guid: 27d4d5db80912074fb260602f8c83f21, type: 2}
+  - {fileID: 11400000, guid: 27d4d5db80912074fb260602f8c83f21, type: 2}
+  - {fileID: 11400000, guid: 61fa5491dc8763d49841deaece7a0939, type: 2}
+  - {fileID: 11400000, guid: 61fa5491dc8763d49841deaece7a0939, type: 2}
+  - {fileID: 11400000, guid: e6962f540f7cc9f4db65229b57c7714c, type: 2}
+  - {fileID: 11400000, guid: e6962f540f7cc9f4db65229b57c7714c, type: 2}
+  - {fileID: 11400000, guid: 7997ae8e1266dab4fb7c84eb4f2226d8, type: 2}
+  - {fileID: 11400000, guid: d5f6979f9f5594b47a63f00c163b85a5, type: 2}
+  - {fileID: 11400000, guid: 1f5b2527196a0ce4da272206a002cccc, type: 2}
+  - {fileID: 11400000, guid: 1f5b2527196a0ce4da272206a002cccc, type: 2}
