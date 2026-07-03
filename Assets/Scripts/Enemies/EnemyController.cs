@@ -83,7 +83,6 @@ namespace DungeonPairs.Enemies
 
             activeVisual.transform.localPosition = Vector3.zero;
             activeVisual.transform.localRotation = Quaternion.identity;
-            activeVisual.transform.localScale = Vector3.one;
 
             FighterAnimationController animationController =
                 activeVisual.GetComponentInChildren<FighterAnimationController>(true);
